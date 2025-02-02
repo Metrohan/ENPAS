@@ -312,7 +312,7 @@ Proje linki: [https://github.com/Metrohan/ENPAS](https://github.com/Metrohan/ENP
 [issues-shield]: https://img.shields.io/github/issues/Metrohan/ENPAS.svg?style=for-the-badge
 [issues-url]: https://github.com/Metrohan/ENPAS/issues
 [license-shield]: https://img.shields.io/github/license/Metrohan/ENPAS.svg?style=for-the-badge
-[license-url]: https://github.com/Metrohan/ENPAS/blob/master/LICENSE.txt
+[license-url]: https://github.com/Metrohan/ENPAS/blob/main/LICENSE.txt
 [linkedin-shield-meto]: https://img.shields.io/badge/-LinkedIn:MetehanGunen-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-shield-semih]: https://img.shields.io/badge/-LinkedIn:SemihCelenk-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-shield-emre]: https://img.shields.io/badge/-LinkedIn:EmreKaygusuz-black.svg?style=for-the-badge&logo=linkedin&colorB=555
