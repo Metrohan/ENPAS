@@ -33,7 +33,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Metrohan/ENPAS">
-    <img src="images/logo.png" alt="Logo Hazırlanıyor" width="80" height="80">
+    <img src="images/beyazlogo.png" alt="ENPAS" width="80" height="80">
   </a>
 
 <h3 align="center">ENPAS</h3>
