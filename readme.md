@@ -279,9 +279,9 @@ Emre Kaygusuz -
 </br>
 Semih Çelenk - 
 </br>
-Musa Emre Delen - 
+Ali Karaca - alikrc752@gmail.com
 </br>
-Ali Karaca - 
+Musa Emre Delen - 5.Adam(Fasulye) -
 
 
 Proje linki: [https://github.com/Metrohan/ENPAS](https://github.com/Metrohan/ENPAS)
