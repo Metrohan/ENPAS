@@ -277,7 +277,7 @@ Metehan Günen - metehangnn@outlook.com
 </br>
 Emre Kaygusuz - emrekaygusuzcf@gmail.com
 </br>
-Semih Çelenk - 
+Semih Çelenk - semihcelenkiletisim@gmail.com
 </br>
 Ali Karaca - alikrc752@gmail.com
 </br>
