@@ -281,7 +281,7 @@ Semih Çelenk -
 </br>
 Ali Karaca - alikrc752@gmail.com
 </br>
-Musa Emre Delen - 5.Adam(Fasulye) -
+Musa Emre Delen -
 
 
 Proje linki: [https://github.com/Metrohan/ENPAS](https://github.com/Metrohan/ENPAS)
