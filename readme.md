@@ -275,7 +275,7 @@ test edilmesi.
 
 Metehan Günen - metehangnn@outlook.com
 </br>
-Emre Kaygusuz - 
+Emre Kaygusuz - emrekaygusuzcf@gmail.com
 </br>
 Semih Çelenk - 
 </br>
