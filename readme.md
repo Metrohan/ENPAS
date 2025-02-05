@@ -23,9 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
-[![LinkedIn: Metehan Günen][linkedin-shield-meto]][linkedin-url-meto]
-[![LinkedIn: Semih Çelenk][linkedin-shield-semih]][linkedin-url-semih]
-[![LinkedIn: Emre Kaygusuz][linkedin-shield-emre]][linkedin-url-emre]
 
 
 
@@ -270,32 +267,22 @@ test edilmesi.
 
 
 
-<!-- CONTACT -->
-## İletişim
 
-Metehan Günen - metehangnn@outlook.com
+## Katkı Sağlayanlar
+
+Metehan Günen - metehangnn@outlook.com [![LinkedIn: Metehan Günen][linkedin-shield-meto]][linkedin-url-meto]
 </br>
-Emre Kaygusuz - emrekaygusuzcf@gmail.com
+Emre Kaygusuz - emrekaygusuzcf@gmail.com [![LinkedIn: Emre Kaygusuz][linkedin-shield-emre]][linkedin-url-emre]
 </br>
-Semih Çelenk - semihcelenkiletisim@gmail.com
+Semih Çelenk - semihcelenkiletisim@gmail.com [![LinkedIn: Semih Çelenk][linkedin-shield-semih]][linkedin-url-semih]
 </br>
-Ali Karaca - alikrc752@gmail.com
+Ali Karaca - alikrc752@gmail.com [![LinkedIn: Ali Karaca][linkedin-shield-ali]][linkedin-url-ali]
 </br>
 Musa Emre Delen -
 
 
+
 Proje linki: [https://github.com/Metrohan/ENPAS](https://github.com/Metrohan/ENPAS)
-
-<p align="right">(<a href="#readme-top">başa dön</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
@@ -316,9 +303,11 @@ Proje linki: [https://github.com/Metrohan/ENPAS](https://github.com/Metrohan/ENP
 [linkedin-shield-meto]: https://img.shields.io/badge/-LinkedIn:MetehanGunen-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-shield-semih]: https://img.shields.io/badge/-LinkedIn:SemihCelenk-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-shield-emre]: https://img.shields.io/badge/-LinkedIn:EmreKaygusuz-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield-ali]: https://img.shields.io/badge/-LinkedIn:AliKaraca-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-meto]: https://www.linkedin.com/in/metehangunen/
 [linkedin-url-semih]: https://www.linkedin.com/in/semih-celenk/
 [linkedin-url-emre]: https://www.linkedin.com/in/emre-kaygusuz-56b014250/
+[linkedin-url-ali]: https://www.linkedin.com/in/ali-karaca-a0a950298/
 [product-screenshot]: images/screenshot.png
 [Kotlin]: https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=green
 [Kotlin-url]: https://kotlinlang.org/
