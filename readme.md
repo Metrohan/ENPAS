@@ -82,6 +82,7 @@ tarafından kullanılabilecektir.
 
 * [![Kotlin][Kotlin]][Kotlin-url]
 * [![Android Studio][Android Studio]][AndroidStudio-url]
+* [![Node.js][Node.js]][Nodejs-url]
 * [![Firebase][Firebase]][Firebase-url]
 * ![ESP32][ESP32]
 
@@ -102,13 +103,13 @@ Uygulama hazır olduğunda doldurulacak
 
 ### **Genel Roadmap**
 
-#### **1. Hazırlık Aşaması**
+#### **1. Hazırlık Aşaması** ✔️
 1. **Proje Tanımı ve Hedef Belirleme**:
 - Ekip bir toplantı yaparak projenin nihai hedeflerini ve kullanıcı
 hikayelerini (Admin, Engelli birey, Normal birey) belirlenecek.
 - Projenin temel teknik ve yazılım gereksinimlerini tespit edilecek.
 - Belirlenen gereksinimlere göre bir yol haritası oluşturulacak. </br>
-2. **Roller ve Sorumluluk Dağılımı**:
+2. **Roller ve Sorumluluk Dağılımı**:✔️
 - Yazılım ekibi (4 kişi): Kotlin ve Android Studio öğrenmeye başlayacak.
 - Donanım ekibi (Semih ve Metehan): ESP32 ve DC motorlarla prototip
 geliştirme için çalışacak. </br>
@@ -117,26 +118,24 @@ geliştirme için çalışacak. </br>
 edilecek.
 - Kotlin ve Android Studio için gerekli kaynakları belirlenecek (video
 dersler, dökümanlar, tutorial projeler).</br>
-4. **Ekip Eğitim Planı**:
-- Kotlin ve Android Studio için haftalık ders ccalısılacak (Genel bilgi
+4. **Ekip Eğitim Planı**: ✔️
+- Kotlin ve Android Studio için haftalık ders çalışılacak (Genel bilgi
 edinildiğinde proje geliştirme aşamasında devam edilecek)
 - ESP32 ve DC motorlar üzerine bir temel çalışma yapılacak.
 ---
 #### **2. Teknoloji ve Araştırma Aşaması**
-1. **Kotlin ve Android Studio Öğrenimi**:
+1. **Kotlin ve Android Studio Öğrenimi**: ✔️
 - Haftalık bireysel ve grup çalışmaları yapılacak.
 - Temel konular:
 - Aktivite ve fragment kullanımı.
 - RecyclerView ve View Binding.
 - Google Maps API entegrasyonu.
 - Firebase veya SQLite kullanımı.
-2. **ESP32 ve DC Motorlar**:
+2. **ESP32 ve DC Motorlar**: ✔️
 - DC motor kontrolü için ESP32 kodlama.
 - Wi-Fi modülü ile ESP32’nin mobil cihazlarla haberleşmesi.
-3. **Araştırma ve Test**: // (Asıl projeden önce basit ve entegre edilebilir alt
-sistemler oluşturulacak)
-- Google Maps API için demo projeler geliştirme. (// Pratik ve doğruluk
-testi)
+3. **Araştırma ve Test**: ✔️
+- Google Maps API için demo projeler geliştirme. 
 - ESP32’yi kontrol edebilen basit bir mobil uygulama çıkartılacak.
 ---
 #### **3. Prototip Geliştirme**
@@ -315,6 +314,8 @@ Proje linki: [https://github.com/Metrohan/ENPAS](https://github.com/Metrohan/ENP
 [AndroidStudio-url]: https://developer.android.com/studio?hl=en
 [Firebase]: https://img.shields.io/badge/firebase-35495E?style=for-the-badge&logo=firebase&logoColor=orange
 [Firebase-url]: https://firebase.google.com/
+[Node.js]: https://img.shields.io/badge/NodeJs-96C241?style=for-the-badge&logo=Node&logoColor=green
+[Nodejs-url]: https://nodejs.org/en
 [ESP32]: https://img.shields.io/badge/esp32-DD0031?style=for-the-badge&logo=esp32&logoColor=white
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
