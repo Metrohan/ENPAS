@@ -73,7 +73,7 @@ Daha fazla bilgi almak veya katkıda bulunmak için bizimle iletişime geçin:
 
 
 ## 📜 Lisans
-Bu proje **MIT Lisansı** altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
+Bu proje **MPL 2.0 Lisansı** altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
 
 
 ## 👥 Katkıda Bulunanlar
