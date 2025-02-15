@@ -21,7 +21,7 @@
 
 ## 📌 Proje Hakkında
 
-[![Görsel Hazırlanıyor][product-screenshot]](https://example.com)
+![product-screenshot]
 
 Engelli bireyler için otoparklarda yer alan park alanlarının daha etkili
 korunması ve yetkisiz kullanımların engellenmesi amacıyla bir duba kontrol
@@ -108,7 +108,7 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Daha fazla bilgi için [L
 [linkedin-url-semih]: https://www.linkedin.com/in/semih-celenk/
 [linkedin-url-emre]: https://www.linkedin.com/in/emre-kaygusuz-56b014250/
 [linkedin-url-ali]: https://www.linkedin.com/in/ali-karaca-a0a950298/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/mockup.png
 [Kotlin]: https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=green
 [Kotlin-url]: https://kotlinlang.org/
 [Android Studio]: https://img.shields.io/badge/androidstudio-20232A?style=for-the-badge&logo=androidstudio&logoColor=61DAFB
