@@ -83,7 +83,7 @@ Bu proje **MPL 2.0 Lisansı** altında lisanslanmıştır. Daha fazla bilgi içi
 | Emre Kaygusuz | Ekip Lider Yardımcısı, Backend ve Veritabanı | emrekaygusuzcf@gmail.com [![LinkedIn: Emre Kaygusuz][linkedin-shield-emre]][linkedin-url-emre] |
 | Semih Çelenk | Menajer, Donanım Sorumlusu, Frontend | semihcelenkiletisim@gmail.com [![LinkedIn: Semih Çelenk][linkedin-shield-semih]][linkedin-url-semih] |
 | Ali Karaca | Fullstack | alikrc752@gmail.com [![LinkedIn: Ali Karaca][linkedin-shield-ali]][linkedin-url-ali] |
-| Musa Emre Delen | Fullstack | |
+| Musa Emre Delen | Fullstack | musaemre22@gmail.com |
 
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
