@@ -37,7 +37,7 @@ tarafından kullanılabilecektir.
 * [![Kotlin][Kotlin]][Kotlin-url]
 * [![Android Studio][Android Studio]][AndroidStudio-url]
 * [![Node.js][Node.js]][Nodejs-url]
-* [![Firebase][Firebase]][Firebase-url]
+* [![MySQL][MySQL]][MySQL-url]
 * ![ESP32][ESP32]
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
@@ -113,8 +113,8 @@ Bu proje **MPL 2.0 Lisansı** altında lisanslanmıştır. Daha fazla bilgi içi
 [Kotlin-url]: https://kotlinlang.org/
 [Android Studio]: https://img.shields.io/badge/androidstudio-20232A?style=for-the-badge&logo=androidstudio&logoColor=61DAFB
 [AndroidStudio-url]: https://developer.android.com/studio?hl=en
-[Firebase]: https://img.shields.io/badge/firebase-35495E?style=for-the-badge&logo=firebase&logoColor=orange
-[Firebase-url]: https://firebase.google.com/
+[MySQL]: https://img.shields.io/badge/mysql-35495E?style=for-the-badge&logo=mysql&logoColor=blue
+[MySQL-url]: https://www.mysql.com/
 [Node.js]: https://img.shields.io/badge/NodeJs-96C241?style=for-the-badge&logo=Node&logoColor=green
 [Nodejs-url]: https://nodejs.org/en
 [ESP32]: https://img.shields.io/badge/esp32-DD0031?style=for-the-badge&logo=esp32&logoColor=white
