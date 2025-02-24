@@ -2,7 +2,7 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/Metrohan/ENPAS">
+  <a href="https://enpas.carrd.co/">
     <img src="images/beyazlogokontur.png" alt="ENPAS" width="500" height="500">
   </a>
 
