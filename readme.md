@@ -69,7 +69,7 @@ tarafından kullanılabilecektir.
 ## 📩 İletişim
 Daha fazla bilgi almak veya katkıda bulunmak için bizimle iletişime geçin:
 
-📧 **E-posta:** enpasteknofest@gmail.com
+📧 **E-posta:** enpas@enpas.tech
 
 
 ## 📜 Lisans
