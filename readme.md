@@ -2,7 +2,7 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://enpas.carrd.co/">
+  <a href="https://www.enpas.tech/">
     <img src="images/beyazlogokontur.png" alt="ENPAS" width="500" height="500">
   </a>
 
@@ -36,7 +36,6 @@ tarafından kullanılabilecektir.
 
 * [![Kotlin][Kotlin]][Kotlin-url]
 * [![Android Studio][Android Studio]][AndroidStudio-url]
-* [![Node.js][Node.js]][Nodejs-url]
 * [![MySQL][MySQL]][MySQL-url]
 * ![ESP32][ESP32]
 
