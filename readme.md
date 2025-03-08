@@ -46,7 +46,7 @@ tarafından kullanılabilecektir.
 ## 🚀 Özellikler
 - 📱 **Mobil Uygulama:** Kullanıcı dostu arayüz sayesinde park alanlarını görüntüleme ve kontrol etme.
 - 🔐 **Yetkilendirme Sistemi:** Engelli bireylerin doğrulanmış hesaplarla park alanlarını kullanabilmesi.
-- 🔄 **Otomatik Duba Kontrolü:** Sinyal ile hareket eden bariyerler sayesinde güvenli park erişimi.
+- 🔄 **Otomatik Bariyer Kontrolü:** Sinyal ile hareket eden bariyerler sayesinde güvenli park erişimi.
 - 📊 **Gerçek Zamanlı Veri Takibi:** Kullanıcılar dolu/boş park alanlarını anlık olarak görüntüleyebilir.
 - ☁️ **Bulut Entegrasyonu:** Güvenli hosting ve API ile veri güvenliği ve senkronizasyonu sağlanır.
 
