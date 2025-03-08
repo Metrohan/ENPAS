@@ -24,8 +24,8 @@
 ![product-screenshot]
 
 Engelli bireyler için otoparklarda yer alan park alanlarının daha etkili
-korunması ve yetkisiz kullanımların engellenmesi amacıyla bir duba kontrol
-sistemi geliştirilecektir. Sistem, bir mobil uygulama aracılığıyla dubaların
+korunması ve yetkisiz kullanımların engellenmesi amacıyla bir bariyer kontrol
+sistemi geliştirilecektir. Sistem, bir mobil uygulama aracılığıyla bariyerlerin
 yükseltilip alçaltılmasını sağlayacak, sadece doğrulanmış engelli bireyler
 tarafından kullanılabilecektir.
 
@@ -47,9 +47,9 @@ tarafından kullanılabilecektir.
 ## 🚀 Özellikler
 - 📱 **Mobil Uygulama:** Kullanıcı dostu arayüz sayesinde park alanlarını görüntüleme ve kontrol etme.
 - 🔐 **Yetkilendirme Sistemi:** Engelli bireylerin doğrulanmış hesaplarla park alanlarını kullanabilmesi.
-- 🔄 **Otomatik Duba Kontrolü:** Sinyal ile hareket eden dubalar sayesinde güvenli park erişimi.
+- 🔄 **Otomatik Duba Kontrolü:** Sinyal ile hareket eden bariyerler sayesinde güvenli park erişimi.
 - 📊 **Gerçek Zamanlı Veri Takibi:** Kullanıcılar dolu/boş park alanlarını anlık olarak görüntüleyebilir.
-- ☁️ **Bulut Entegrasyonu:** Firebase ile veri güvenliği ve senkronizasyonu sağlanır.
+- ☁️ **Bulut Entegrasyonu:** Güvenli hosting ve API ile veri güvenliği ve senkronizasyonu sağlanır.
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
